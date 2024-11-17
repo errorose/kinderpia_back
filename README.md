@@ -1,4 +1,4 @@
-# :seedling: Kinderpia 
+![image](https://github.com/user-attachments/assets/f13b47ad-bf9c-4ea9-b548-77d065f78019)
 
 > SeSAC 영등포 6기 3차 프로젝트
 
