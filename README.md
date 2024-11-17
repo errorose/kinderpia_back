@@ -2,11 +2,11 @@
 
 > SeSAC 영등포 6기 3차 프로젝트
 
+<br/>
+
 🔗 배포 서버 : [http://43.201.85.98:8080/](http://ec2-3-38-150-41.ap-northeast-2.compute.amazonaws.com/)
 
-📃 [킨더피아 발표자료 PDF]
-
-<br>
+<br/>
 
 ## 🔹 목차
 
@@ -18,8 +18,6 @@
 6. [역할 분담](#역할-분담)
 7. [프로젝트 설계](#프로젝트-설계)
 8. [구현 기능](#구현-기능)
-9. [향후 계획](#향후-계획)
-10. [소감](#소감)
 
 <br/>
 
@@ -32,7 +30,7 @@
 * Test ID: test3859
 * Test Password: test1234
 
-<br>
+<br/>
 
 ## :raising_hand: Backend Developers
 #### 김어진 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/qldirr)
@@ -40,14 +38,15 @@
 
 #### 석원준 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ymind14563)
 - 채팅, 신고, 파이프라인 자동화 구축
-- **서버 배포**: AWS (EC2, RDS, S3), NGINX
+- 서버 배포: AWS (EC2, RDS, S3), NGINX
 
 #### 유예진 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yjyoo6831)
 - 장소 검색, 리뷰 CRUD
+
 #### 윤예슬 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/errorose)
 - 모임 관리 시스템 개발
 
-<br>
+<br/>
 
 ## 🧰 Architecture
 
@@ -71,13 +70,6 @@
 
 ## 모임 검색 페이지
 <img alt="모임검색" src="https://github.com/user-attachments/assets/646c571c-fdb6-4fbe-9df4-fa07d729e398">
-
-## 모임 생성 페이지
-![image](https://github.com/user-attachments/assets/3e898c57-70a9-4fbd-9646-b00fa8670986)
-![image](https://github.com/user-attachments/assets/f4f38d1f-22d0-41a4-beab-6b8fcda377df)
-
-## 모임 상세 페이지
-![image](https://github.com/user-attachments/assets/b59b1b99-274b-4020-89ed-0fae20ad5d15)
 
 ## 장소 상세 페이지 
 ![장소상세](https://github.com/user-attachments/assets/018f3597-96fb-42a3-904a-5df0868e843c)
