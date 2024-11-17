@@ -67,7 +67,7 @@
 ## 주요 페이지 소개 
 
 ## 메인 페이지 
-![메인페이지](https://github.com/user-attachments/assets/9654fd23-52f6-41aa-ae93-e66270675524)
+<img alt="메인페이지" src="https://github.com/user-attachments/assets/bb223e78-5d98-4fd0-8938-2bc372da3572">
 
 ## 장소 상세 페이지 
 ![장소상세](https://github.com/user-attachments/assets/018f3597-96fb-42a3-904a-5df0868e843c)
