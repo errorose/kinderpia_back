@@ -67,7 +67,17 @@
 ## 주요 페이지 소개 
 
 ## 메인 페이지 
-<img alt="메인페이지" src="https://github.com/user-attachments/assets/bb223e78-5d98-4fd0-8938-2bc372da3572">
+<img alt="메인" src="https://github.com/user-attachments/assets/bb223e78-5d98-4fd0-8938-2bc372da3572">
+
+## 모임 검색 페이지
+<img alt="모임검색" src="https://github.com/user-attachments/assets/646c571c-fdb6-4fbe-9df4-fa07d729e398">
+
+## 모임 생성 페이지
+![image](https://github.com/user-attachments/assets/3e898c57-70a9-4fbd-9646-b00fa8670986)
+![image](https://github.com/user-attachments/assets/f4f38d1f-22d0-41a4-beab-6b8fcda377df)
+
+## 모임 상세 페이지
+![image](https://github.com/user-attachments/assets/b59b1b99-274b-4020-89ed-0fae20ad5d15)
 
 ## 장소 상세 페이지 
 ![장소상세](https://github.com/user-attachments/assets/018f3597-96fb-42a3-904a-5df0868e843c)
