@@ -73,17 +73,27 @@
 
 <br>
 
-## 5. 시스템 아키텍처
+## 5. 프로젝트 설계
+
+- [요구분석 정의서/명세서](https://docs.google.com/spreadsheets/d/1gSM3U5_iIPCi3uZO0OA2bNrZaqUr0ofMC7ZDPXP2jQE/edit?usp=sharing)
+- [테이블 명세서](https://docs.google.com/spreadsheets/d/18Qe6gyXHZGjYSOT_aBlw2B_aoWGzkUCpWcnQP_UIWB0/edit?gid=0#gid=0)
+- [DB 설계](https://www.erdcloud.com/d/3WZ38QnZe9BXJywD9)
+- [화면 설계](https://www.figma.com/design/02t3ifbBDnqWeSDWkBBV3y/sesac-3rd?node-id=17-2&node-type=canvas&t=n7qn5s3rjdVDjdgQ-0)
+- [명명법](https://docs.google.com/spreadsheets/d/1PZu6fUjUPuSyrVNv09v6w6CyTfszG57dqVE4vMwtHkw/edit?gid=257359927#gid=257359927)
+
+<br/>
+
+## 6. 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/9298e6e9-9c3b-4f7e-aa16-00785c6ddfab)
 
 <br>
 
-## 😀 6. 데이터베이스 ERD (주요 테이블)
+## 😀 7. 데이터베이스 ERD (주요 테이블)
 ![image](https://github.com/user-attachments/assets/ca384d30-35e7-40ef-86b2-0adc12ff25e9)
 
 <br>
 
-## 📂 7. 프로젝트 폴더 구조
+## 📂 8. 프로젝트 폴더 구조
 
 ```
 Kinderpia - Back
@@ -113,7 +123,7 @@ src
 
 <br>
 
-## 🏷️ 8. 기능 소개
+## 🏷️ 9. 기능 소개
 
 ### 0) 메인 페이지
 
