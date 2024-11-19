@@ -94,16 +94,16 @@ src
      │       └── sesac_3rd
      │           ├── Sesac3rdApplication.java
      │           ├── config               // 설정 파일 (JWT, 보안 설정 등)
-     │           ├── constant          // 상수 관리 (ex: 상태 값)
-     │           ├── controller        // 컨트롤러 계층
-     │           ├── dto                   // 데이터 전송 객체 (DTO)
+     │           ├── constant             // 상수 관리 (ex: 상태 값)
+     │           ├── controller           // 컨트롤러 계층
+     │           ├── dto                  // 데이터 전송 객체 (DTO)
      │           ├── entity               // 엔티티 클래스
-     │           ├── exception        // 예외 처리
-     │           ├── handler           // 핸들러 클래스
-     │           ├── mapper           // 매퍼 (DTO <-> 엔티티 변환)
-     │           ├── repository       // 데이터 접근 레이어
-     │           ├── service             // 서비스 계층
-     │           └── utils                    // 유틸리티 클래스 (ex: S3 관리)
+     │           ├── exception            // 예외 처리
+     │           ├── handler              // 핸들러 클래스
+     │           ├── mapper               // 매퍼 (DTO <-> 엔티티 변환)
+     │           ├── repository           // 데이터 접근 레이어
+     │           ├── service              // 서비스 계층
+     │           └── utils                // 유틸리티 클래스 (ex: S3 관리)
      └── resources
          ├── application.properties
          ├── data.sql
