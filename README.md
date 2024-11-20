@@ -88,7 +88,7 @@
 
 <br>
 
-## 😀 7. 데이터베이스 ERD (주요 테이블)
+## 🧰 7. 데이터베이스 ERD (주요 테이블)
 ![image](https://github.com/user-attachments/assets/ca384d30-35e7-40ef-86b2-0adc12ff25e9)
 
 <br>
