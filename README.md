@@ -34,17 +34,17 @@
 ## 🙋 2. Back-End Developers
 
 #### 김어진 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/qldirr)
-- 유저, 관리자
+- 유저, 관리자 기능 담당
 
 #### 석원준 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ymind14563)
 - 채팅, 신고, 파이프라인 자동화 구축
 - 서버 배포: AWS (EC2, RDS, S3), NGINX
 
 #### 유예진 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yjyoo6831)
-- 장소 검색, 리뷰 CRUD
+- 장소 검색, 리뷰 기능 담당
 
 #### 윤예슬 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/errorose)
-- 모임 관리 시스템 개발
+- 모임 관리 기능 담당
 
 <br/>
 
